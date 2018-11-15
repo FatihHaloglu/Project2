@@ -47,7 +47,7 @@ function preload(){
   }
 
   for (var i=0; i < 4; i++){
-    photos[i] = loadImage("photo" + i + ".jpg");
+    photos[i] = loadImage("photo" + i + ".JPG");
   }
 }
 
